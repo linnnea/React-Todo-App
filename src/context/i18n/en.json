@@ -1,0 +1,13 @@
+{
+  "Todo_App": "Todo App",
+  "title": "Title",
+  "body": "Content",
+  "caption": "Press button to select language",
+  "Notes": "Notes",
+  "New_Note": "New Note",
+  "Archive": "Archive",
+  "UnArchive": "Un-Archive",
+  "No_Notes_Found": "No Notes Found",
+  "Save": "Save",
+  "Delete": "Delete"
+}

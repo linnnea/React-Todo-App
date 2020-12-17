@@ -1,0 +1,13 @@
+{
+  "Todo_App": "Att göra App",
+  "title": "Titel",
+  "body": "Innehåll",
+  "caption": "Tryck på knappen för val av språk",
+  "Notes": "Anteckningar",
+  "New_Note": "Ny anteckning",
+  "Archive": "Arkivera",
+  "UnArchive": "Av-arkivera",
+  "No_Notes_Found": "Inga anteckningar hittades",
+  "Save": "Spara",
+  "Delete": "Radera"
+}
